@@ -1,19 +1,19 @@
 <h1 align="center">Hi there! 👋 This is Md. Nesad.</h1>
-<h3 align="center">Junior Front-End-Developer</h3>
+<h3 align="center">Full Stack Developer (Frontend focused)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-nesad&label=Profile%20views&color=0e75b6&style=flat" alt="md-nesad" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-nesad" alt="md-nesad" /></a> </p>
 
-- 🔭 I’m currently working on **Fiverr**
+- 🔭 I’m currently working as a **Freelancer (commission and project based)**
 
-- 🌱 I’m currently learning **Advanced Javascript, frameworks, etc.**
+- 🌱 I’m currently learning **Advanced Full Stack Development**
 
-- 💬 Ask me about **Frontend technology.**
+- 💬 Ask me about **Frontend and Full Stack Project**
 
-- 📫 How to reach me **nesadm26@gmail.com**
+- 📫 How to reach me **nesad.frontenddeveloper@gmail.com**
 
-- ⚡ Fun fact **I think I am friendly.**
+- ⚡ Fun fact **I am friendly.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
