@@ -1,32 +1,117 @@
 <h1 align="center">Hi 👋, I'm Md. Nesad</h1>
-<h3 align="center">A passionate frontend focused full stack developer from Bangladesh</h3>
+<h3 align="center">💻 Frontend-Focused Full Stack Developer | React • Next.js • TypeScript • Node.js</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-nesad&label=Profile%20views&color=0e75b6&style=flat" alt="md-nesad" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-nesad" alt="md-nesad" /></a> </p>
-
-- 🔭 I’m currently working on [a hotel management system](https://hotel-management-system-ochre.vercel.app/)
-
-- 🌱 I’m currently learning **advance backend development**
-
-- 👯 I’m looking to collaborate on **full stack project**
-
-- 👨‍💻 All of my projects are available at [https://nesad-portfolio-website.vercel.app/](https://nesad-portfolio-website.vercel.app/)
-
-- 💬 Ask me about **frontend and full stack projects**
-
-- 📫 How to reach me **nesadm26@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/md-nesad-30b5bb286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/md-nesad-30b5bb286" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://nesad-portfolio-website.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:nesadm26@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/md-nesad-30b5bb286" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/md-nesad" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-nesad&show_icons=true&locale=en&layout=compact" alt="md-nesad" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-nesad&show_icons=true&locale=en" alt="md-nesad" /></p>
+Hey there! I’m **Md. Nesad**, a **frontend-focused full stack developer** from Bangladesh 🇧🇩 who loves turning ideas into modern, interactive web applications.  
+I believe in writing **clean, scalable, and maintainable code** — and I’m always learning something new to improve my craft.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-nesad&" alt="md-nesad" /></p>
+I enjoy working with **React, Next.js, and Node.js**, building everything from sleek UIs to fully functional web apps.
+
+- 🔭 **Currently building:** [Hotel Management System](https://hotel-management-system-ochre.vercel.app/)  
+- 🌱 **Learning:** Advanced backend development (Node.js, MongoDB, API Design)  
+- 🤝 **Open to:** Full Stack or Frontend developer opportunities  
+- 💬 **Ask me about:** React, Next.js, TypeScript, Tailwind, MongoDB  
+- 📫 **Let’s talk:** [nesadm26@gmail.com](mailto:nesadm26@gmail.com)  
+- 🌍 **Portfolio:** [nesad-portfolio-website.vercel.app](https://nesad-portfolio-website.vercel.app/)
+
+---
+
+### ⚙️ Tech Stack
+
+#### 🚀 Frontend
+React.js • Next.js • TypeScript • Redux Toolkit • Tailwind CSS • Sass  
+
+#### 🧩 Backend
+Node.js • Express.js • MongoDB • Firebase • REST APIs  
+
+#### 🛠 Tools
+Git • GitHub • Figma • Jest • Postman • VS Code  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,mongodb,tailwind,redux,firebase,figma,git,jest,postman,html,css" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+
+Here are a few projects I’m proud of 👇  
+
+| Project | Description | Live Demo |
+|----------|--------------|------------|
+| 🏨 **Hotel Management System** | A full-stack hotel booking and management web app with room availability, payment, and admin dashboard. | [View Project](https://hotel-management-system-ochre.vercel.app/) |
+| 🛒 **E-Commerce App** | A modern e-commerce platform built with Next.js, MongoDB, and Stripe integration for payments. | [View Demo](https://your-ecommerce-link.vercel.app/) |
+| ✅ **Advanced To-Do App** | A productivity web app with drag-and-drop tasks, authentication, and progress tracking. | [View Demo](https://your-todo-app-link.vercel.app/) |
+| 📰 **Blog Platform** | A full-stack blogging website with markdown support, authentication, and comment features. | [View Demo](https://your-blog-link.vercel.app/) |
+
+> 💡 *More projects available on my [Portfolio](https://nesad-portfolio-website.vercel.app/).*
+
+---
+
+### 🏆 Achievements & Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=md-nesad&theme=darkhub&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=md-nesad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-nesad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-nesad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://nesad-portfolio-website.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/md-nesad-30b5bb286" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nesadm26@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/md-nesad" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ⚡ My Development Philosophy
+
+> “I don’t just write code — I build experiences.  
+> Every project I work on is an opportunity to learn, grow, and make the web a little better.”
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=md-nesad&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
