@@ -20,9 +20,9 @@
 
 ### 👨‍💻 About Me
 
-Hey there! I’m **Md. Nesad**, a **frontend-focused full stack developer** from Bangladesh 🇧🇩 who loves turning ideas into modern, interactive website and web applications.  
+Hey there! I’m **Md. Nesad**, a **frontend-focused full stack developer** from Bangladesh who loves turning ideas into modern, interactive website and web applications.  
 
-I believe in writing **clean, scalable, and maintainable code** — and I’m always learning something new to improve my craft.
+I believe in writing **clean, scalable, readable, optimized and maintainable code** — and I’m always learning something new to improve my craft.
 
 I enjoy working with **React, Next.js, and Node.js**, building everything from sleek UIs to fully functional web apps.
 
@@ -49,7 +49,7 @@ Git • GitHub • Figma • Jest • Postman • VS Code  • chatGpt • Githu
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,javascript,react,redux,nextjs,typescript,nodejs,express,mongodb,figma,git,postman," />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,javascript,react,redux,nextjs,typescript,nodejs,express,mongodb,figma,git,postman" />
 </p>
 
 ---
@@ -85,7 +85,7 @@ Here are a few projects I’m proud of 👇
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-nesad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=md-nesad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> &nbsp; &nbsp; &nbsp;
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-nesad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
