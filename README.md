@@ -61,14 +61,14 @@ Here are a few projects I’m proud of 👇
 | Project | Description | Live Demo |
 |----------|--------------|------------|
 | 🏨 **Hotel Management System** | A full-stack hotel booking and management web app with room availability, payment, and admin dashboard. | [View Project](https://hotel-management-system-ochre.vercel.app/) |
-| 🛒 **E-Commerce App (amazon clone)** | Building a robust e-commerce platform like Amazon involves handling complex features such as product management, secure checkout, dynamic cart updates, and user authentication.. | [View project](https://mini-amazon-kappa.vercel.app/) |
+| 🛒 **E-Commerce App (amazon clone)** | Building a robust e-commerce platform like Amazon involves handling complex features such as product management, secure checkout, dynamic cart updates, and user authentication. | [View project](https://mini-amazon-kappa.vercel.app/) |
 | ✅ **Alibi Admin Dashboard** | A frontend-based prototype of a full-stack admin system designed for managing real-time location-based data, analytics, and user monitoring using interactive maps and visual dashboards. | [View project](https://alibi-admin-dashboard.vercel.app/) |
 
 > 💡 *More projects available on my [Portfolio](https://nesad-portfolio-website.vercel.app/).*
 
 ---
 
-### 🏆 My Achievements & Stats
+### 🏆 My Achievements
 
 <p align="center">
 <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" data-hovercard-type="achievement" data-hovercard-url="/users/Md-Nesad/achievements/yolo/detail?hovercard=1" width="64" alt="Achievement: YOLO" data-view-component="true" class="achievement-badge-sidebar" aria-keyshortcuts="Alt+ArrowUp">
@@ -81,13 +81,15 @@ Here are a few projects I’m proud of 👇
 ### 🏆 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-nesad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=md-nesad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-nesad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> &nbsp; &nbsp; &nbsp;
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-nesad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-nesad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
