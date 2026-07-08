@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Nesad</h1>
-<h3 align="center">💻 Mid-Level Frontend Engineer | React • Next.js • TypeScript • Node.js</h3>
+<h3 align="center">💻 Full Stack Software Developer | React • TypeScript • Node.js • MongoDB • PostgreSQL </h3>
 
 <p align="center">
   <a href="https://md-nesad.vercel.app/" target="blank">
@@ -20,32 +20,32 @@
 
 ### 👨‍💻 About Me
 
-Hey there! I’m **Md. Nesad**, a **Mid Level Frontend Engineer** from Bangladesh who loves turning ideas into modern, interactive website and web applications.  
+Hey there! I’m **Md. Nesad**, a **Full Stack Software Developer** from Bangladesh who loves turning ideas into modern, interactive website and web applications.  
 
 I believe in writing **clean, scalable, readable, optimized and maintainable code** — and I’m always learning something new to improve my craft.
 
-I enjoy working with **React, Next.js, TypeScript and Node.js**, building everything from sleek UIs to fully functional web apps.
+I enjoy working with **React, Next.js, TypeScript, Node.js, MongoDB, PostgreSQL and Prisma**, building everything from sleek UIs to fully functional web apps.
 
 - 🔭 **Currently building:** [Hotel Management System](https://hotel-management-system-ochre.vercel.app/)  
-- 🌱 **Learning:** Advanced backend development (Node.js, MongoDB, API Design)  
+- 🌱 **Learning:** Advanced backend development (Advanced and Scalable System Design)  
 - 🤝 **Open to:** Full Stack or Frontend developer opportunities  
-- 💬 **Ask me about:** React, Next.js, TypeScript, Tailwind, Node.js  
+- 💬 **Ask me about:** React, Next.js, TypeScript, Tailwind, Node.js, MongoDB and PostgreSQL  
 - 📫 **Let’s talk:** [nesadm26@gmail.com](mailto:nesadm26@gmail.com)
 - 💬 **WhatsApp:** [Chat with me on WhatsApp](https://wa.me/8801300113023) 
-- 🌍 **Portfolio:** [nesad-portfolio-website.vercel.app](https://md-nesad.vercel.app/)
+- 🌍 **Portfolio:** [md-nesad-portfolio-website](https://md-nesad.vercel.app/)
 
 ---
 
 ### ⚙️ Tech Stack
 
 #### 🚀 Frontend
-React.js • Next.js • TypeScript • Redux Toolkit • Tailwind CSS • Sass  
+React.js • Next.js • TypeScript • Redux Toolkit • Tailwind CSS  
 
 #### 🧩 Backend
-Node.js • Express.js • MongoDB • JWT • REST APIs  
+Node.js • Express.js • MongoDB • JWT • PostgreSQL • Redis • Docker • Socket
 
 #### 🛠 Tools
-Git • GitHub • Figma • Jest • Postman • VS Code  • chatGpt • Github Copilot 
+Git • GitHub • Figma • Jest • Postman • VS Code  • chatGpt • Github Copilot • Nginx • PM2 • Linux
 
 
 <p align="center">
